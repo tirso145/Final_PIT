@@ -7,3 +7,4 @@ INSTRUCTIONS:
 #3. run php artisan migrate
 
 #4. create a user and try to login
+ 
